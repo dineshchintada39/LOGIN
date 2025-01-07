@@ -14,7 +14,7 @@
         <input type="email" name="email" id="email" required />
         <label for="password">Password</label>
         <input type="password" name="password" id="password" required />
-        <button href="signup.html" class="signup-link"type="submit">Login</button>
+        <button type="submit">Login</button>
         <div class="links">
           <a href="forgot password.html" class="forgot-password-link">Forgot Password</a>
           <a href="signup.html" class="signup-link">Signup</a>
